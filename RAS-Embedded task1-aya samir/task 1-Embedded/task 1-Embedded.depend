@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1710992845 source:c:\users\lenovo\documents\c language\a\a\task 1-embedded\main.c
+	<stdio.h>
+	<stdlib.h>
+
